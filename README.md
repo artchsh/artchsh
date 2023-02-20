@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Artyom Chshyogolev</h1>
-<h3 align="center">I am a novice web developer. In the future, I plan to learn Swift, C++, Kotlin, Java, TensorFlow and Python</h3>
+<h3 align="center">I'm still not sure what I'm going to be as I'm learning everything I'm interested in. In the future, I plan to learn Swift, C++, Kotlin, Java, TensorFlow and Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artchsh&label=Profile%20views&color=0e75b6&style=flat" alt="artchsh" /> </p>
 
