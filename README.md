@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Artyom Chshyogolev</h1>
-<h3 align="center">I'm still not sure what I'm going to be as I'm learning everything I'm interested in. In the future, I plan to learn Swift, C++, Kotlin, Java, TensorFlow and Python</h3>
+<h3 align="center">I'm still not sure what I'm going to be as I'm learning everything I'm interested in. In the future, I plan to learn Swift, C# and Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artchsh&label=Profile%20views&color=0e75b6&style=flat" alt="artchsh" /> </p>
 
 - 🔭 I’m currently working on [Json-Database](https://github.com/artchsh/json-database)
 
 - 🌱 I’m currently learning **Frameworks (Mostly React), Typescript and Python**
-
-- 👨‍💻 All of my projects are available at [https://artchsh.top/](https://artchsh.top/)
 
 - 💬 Ask me about **I am still afraid to give advice because I still think I have little experience :D**
 
