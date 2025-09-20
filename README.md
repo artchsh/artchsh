@@ -1,5 +1,5 @@
-# 👨‍💻 Artyom Chshyogolev
-👋 Hi, I'm Artyom Chshyogolev, a developer from Kazakhstan passionate about web development, machine learning, and creating useful software.
+# 👨‍💻 Skyler
+👋 Hi, I'm Skyler, a developer from Kazakhstan passionate about web development, machine learning, and creating useful software.
 
 ## 🚀 About Me
 I specialize in **JavaScript** and **Python**, with additional experience in **C**, **PHP**, and database management using **SQL**, **MySQL**, and **MongoDB**. I also have experience with **Docker** for containerization and integrating AI into applications using SDKs like Gemini, Groq, and OpenAI.
