@@ -1,4 +1,4 @@
-### I'm Skyler (Artyom Chshyogolev)
+### I'm Skyler
 Currently working as Frontend Developer at [MediaBoost Group](https://mediaboost.asia)
 
 Projects:
